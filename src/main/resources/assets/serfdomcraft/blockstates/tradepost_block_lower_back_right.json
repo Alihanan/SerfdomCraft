@@ -1,0 +1,14 @@
+{
+    "variants" : {
+        "normal" : { "model" : "serfdomcraft:tradepost_block_LBR.obj" },
+        "facing=east,occupied=true" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": -90 },
+        "facing=south,occupied=true" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 0 },
+        "facing=west,occupied=true" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 90 },
+        "facing=north,occupied=true" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 180 },
+        
+        "facing=east,occupied=false" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": -90 },
+        "facing=south,occupied=false" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 0 },
+        "facing=west,occupied=false" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 90 },
+        "facing=north,occupied=false" : { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 180 }
+    }
+}

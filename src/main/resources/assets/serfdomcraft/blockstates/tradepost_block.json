@@ -1,0 +1,131 @@
+{
+    "variants" : {
+        "normal" : { "model" : "serfdomcraft:tradepost_block.obj" },
+        "facing=east,half=lower_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_LBL.obj", "y": 90 },
+        "facing=east,half=lower_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 90 },
+        "facing=east,half=lower_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_LFL.obj", "y": 90 },
+        "facing=east,half=lower_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_LFR.obj", "y": 90 },
+        
+        "facing=east,half=middle_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_MBL.obj", "y": 90 },
+        "facing=east,half=middle_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_MBR.obj", "y": 90 },
+        "facing=east,half=middle_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_MFL.obj", "y": 90 },
+        "facing=east,half=middle_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_MFR.obj", "y": 90 },
+        
+        "facing=east,half=upper_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_UBL.obj", "y": 90 },
+        "facing=east,half=upper_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_UBR.obj", "y": 90 },
+        "facing=east,half=upper_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_UFL.obj", "y": 90 },
+        "facing=east,half=upper_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_UFR.obj", "y": 90 },
+        
+        "facing=west,half=lower_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_LBL.obj", "y": 270 },
+        "facing=west,half=lower_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 270 },
+        "facing=west,half=lower_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_LFL.obj", "y": 270 },
+        "facing=west,half=lower_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_LFR.obj", "y": 270 },
+        
+        "facing=west,half=middle_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_MBL.obj", "y": 270 },
+        "facing=west,half=middle_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_MBR.obj", "y": 270 },
+        "facing=west,half=middle_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_MFL.obj", "y": 270 },
+        "facing=west,half=middle_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_MFR.obj", "y": 270 },
+        
+        "facing=west,half=upper_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_UBL.obj", "y": 270 },
+        "facing=west,half=upper_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_UBR.obj", "y": 270 },
+        "facing=west,half=upper_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_UFL.obj", "y": 270 },
+        "facing=west,half=upper_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_UFR.obj", "y": 270 },
+        
+        "facing=north,half=lower_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_LBL.obj" },
+        "facing=north,half=lower_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_LBR.obj" },
+        "facing=north,half=lower_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_LFL.obj" },
+        "facing=north,half=lower_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_LFR.obj" },
+        
+        "facing=north,half=middle_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_MBL.obj" },
+        "facing=north,half=middle_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_MBR.obj" },
+        "facing=north,half=middle_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_MFL.obj" },
+        "facing=north,half=middle_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_MFR.obj" },
+        
+        "facing=north,half=upper_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_UBL.obj" },
+        "facing=north,half=upper_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_UBR.obj" },
+        "facing=north,half=upper_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_UFL.obj" },
+        "facing=north,half=upper_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_UFR.obj" },
+        
+        "facing=south,half=lower_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_LBL.obj", "y": 180 },
+        "facing=south,half=lower_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_LBR.obj", "y": 180 },
+        "facing=south,half=lower_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_LFL.obj", "y": 180 },
+        "facing=south,half=lower_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_LFR.obj", "y": 180 },
+        
+        "facing=south,half=middle_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_MBL.obj", "y": 180 },
+        "facing=south,half=middle_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_MBR.obj", "y": 180 },
+        "facing=south,half=middle_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_MFL.obj", "y": 180 },
+        "facing=south,half=middle_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_MFR.obj", "y": 180 },
+        
+        "facing=south,half=upper_back_left,open=true":  { "model": "serfdomcraft:tradepost_block_UBL.obj", "y": 180 },
+        "facing=south,half=upper_back_right,open=true":  { "model": "serfdomcraft:tradepost_block_UBR.obj", "y": 180 },
+        "facing=south,half=upper_front_left,open=true":  { "model": "serfdomcraft:tradepost_block_UFL.obj", "y": 180 },
+        "facing=south,half=upper_front_right,open=true":  { "model": "serfdomcraft:tradepost_block_UFR.obj", "y": 180 },
+        
+        
+        
+        
+        
+        
+        
+        
+        "facing=east,half=lower_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_LBL.obj" },
+        "facing=east,half=lower_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_LBR.obj" },
+        "facing=east,half=lower_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_LFL.obj" },
+        "facing=east,half=lower_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_LFR.obj" },
+        
+        "facing=east,half=middle_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_MBL.obj" },
+        "facing=east,half=middle_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_MBR.obj" },
+        "facing=east,half=middle_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_MFL.obj" },
+        "facing=east,half=middle_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_MFR.obj" },
+        
+        "facing=east,half=upper_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_UBL.obj" },
+        "facing=east,half=upper_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_UBR.obj" },
+        "facing=east,half=upper_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_UFL.obj" },
+        "facing=east,half=upper_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_UFR.obj" },
+        
+        "facing=west,half=lower_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_LBL.obj" },
+        "facing=west,half=lower_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_LBR.obj" },
+        "facing=west,half=lower_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_LFL.obj" },
+        "facing=west,half=lower_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_LFR.obj" },
+        
+        "facing=west,half=middle_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_MBL.obj" },
+        "facing=west,half=middle_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_MBR.obj" },
+        "facing=west,half=middle_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_MFL.obj" },
+        "facing=west,half=middle_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_MFR.obj" },
+        
+        "facing=west,half=upper_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_UBL.obj" },
+        "facing=west,half=upper_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_UBR.obj" },
+        "facing=west,half=upper_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_UFL.obj" },
+        "facing=west,half=upper_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_UFR.obj" },
+        
+        "facing=north,half=lower_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_LBL.obj" },
+        "facing=north,half=lower_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_LBR.obj" },
+        "facing=north,half=lower_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_LFL.obj" },
+        "facing=north,half=lower_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_LFR.obj" },
+        
+        "facing=north,half=middle_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_MBL.obj" },
+        "facing=north,half=middle_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_MBR.obj" },
+        "facing=north,half=middle_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_MFL.obj" },
+        "facing=north,half=middle_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_MFR.obj" },
+        
+        "facing=north,half=upper_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_UBL.obj" },
+        "facing=north,half=upper_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_UBR.obj" },
+        "facing=north,half=upper_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_UFL.obj" },
+        "facing=north,half=upper_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_UFR.obj" },
+        
+        "facing=south,half=lower_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_LBL.obj" },
+        "facing=south,half=lower_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_LBR.obj" },
+        "facing=south,half=lower_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_LFL.obj" },
+        "facing=south,half=lower_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_LFR.obj" },
+        
+        "facing=south,half=middle_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_MBL.obj" },
+        "facing=south,half=middle_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_MBR.obj" },
+        "facing=south,half=middle_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_MFL.obj" },
+        "facing=south,half=middle_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_MFR.obj" },
+        
+        "facing=south,half=upper_back_left,open=false":  { "model": "serfdomcraft:tradepost_block_UBL.obj" },
+        "facing=south,half=upper_back_right,open=false":  { "model": "serfdomcraft:tradepost_block_UBR.obj" },
+        "facing=south,half=upper_front_left,open=false":  { "model": "serfdomcraft:tradepost_block_UFL.obj" },
+        "facing=south,half=upper_front_right,open=false":  { "model": "serfdomcraft:tradepost_block_UFR.obj" }
+    }
+}
