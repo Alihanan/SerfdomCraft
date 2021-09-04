@@ -1,4 +1,9 @@
 // Items
-item.ruby.name=Ruby
+item.ruby.name=Ruby что-то
 // Blocks
 tile.ruby_block.name=Ruby block
+tile.tradepost_block.name="Блок торговой палатки"
+tile.tradepost_item.name=Торговая палатка"
+tile.tradepost_block.occupied="В палатке уже сидит какой-то буржуй!"
+tile.tradepost_block.tooFarAway="Палатка слишком далеко! Читак да?"
+tile.tradepost_block.infoEntered="Вы вошли в буржуйскую палатку!"
